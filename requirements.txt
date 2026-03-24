@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+pydantic
+dash
+plotly
+pandas
+numpy
+scipy
+scikit-learn
+pyserial
